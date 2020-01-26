@@ -43,6 +43,9 @@ gem 'material_icons'
 gem 'redis'
 gem 'sidekiq'
 
+gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
+gem 'rails-ujs', '~> 0.1.0'
+
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.5'
