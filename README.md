@@ -1,25 +1,19 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
+# AMIGO SECRETO
+App to sort friends
 * Ruby version
-
-* System dependencies
-
+Ruby        v 2.5.1
+Rails       v 5.2.0
+PostgreSQL  v 2.0
+*External services (SaaS)
+Digital Ocean: digitalocean.com
+Codeship: http://codeship.com/
+Sendgrid: https://sendgrid.com
+GoDaddy: http://godaddy.com
+Cloudflare: http://cloudflare.com
+* How to install this App
+Clone or fork
+$ bundle install
+$ rails db:create db:migrate
+$ rails s
 * Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# amigo-secreto
+43ec3570c368d5f47f838e204492e28ae0bbaeffd9d9365880b2b2b02ee2d517
